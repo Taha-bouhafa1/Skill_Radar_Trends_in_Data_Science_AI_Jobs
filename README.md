@@ -67,6 +67,32 @@
 
 ```
 
+## 🧠 Project Overview
+
+This dashboard provides insights into trends in Data Science and AI job postings through prediction models and interactive visualizations. It helps identify high-demand skills, estimate salaries, and anticipate skill trends.
+
+---
+
+## 📊 Dashboard Previews
+
+| Skill Forecast 📈                  | Skill Recommendation 🧠                        | Salary Estimation 💰           |
+| ---------------------------------- | ---------------------------------------------- | ------------------------------ |
+| ![Forecast](./assets/forecast.jpg) | ![Recommendation](./assets/recommendation.jpg) | ![Salary](./assets/salary.jpg) |
+
+---
+
+## 📈 Visualizations
+
+Key exploratory data visualizations extracted from the cleaned job dataset:
+
+![Viz1](./assets/Viz1.jpg) | ![Viz2](./assets/Viz2.jpg) | ![Viz2](./assets/Viz3.jpg) |
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -90,12 +116,14 @@
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-Created with 💡 by BOUSKINE OTHMANE , Yassine Boulaalam , Taha Bouhafa
+Project realized as part of the **"Analyse Web"** module under the supervision of **Professor Imad Sassi**.
+
+Created by:
+
+- **Bouskine Othmane**
+- **Yassine Boulaalam**
+- **Taha Bouhafa**
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
