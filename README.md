@@ -74,18 +74,24 @@ This dashboard provides insights into trends in Data Science and AI job postings
 ---
 
 ## 📊 Dashboard Previews
+
+Key exploratory data visualizations extracted from the cleaned job dataset:
+
+![Viz1](./assets/Viz1.jpg) | ![Viz2](./assets/Viz2.jpg) | ![Viz2](./assets/Viz3.jpg) |
+---
+
 **Skill Forecast**
 ![📈 Skill Forecast](./assets/forecast.jpg)  
+---
 
 **Skill Recommendation**
 ![🧠 Skill Recommendation](./assets/recommendation.jpg)  
+---
 
 **Salary Estimation**
 ![💰 Salary Estimation](./assets/salary.jpg)  
 ---
-Key exploratory data visualizations extracted from the cleaned job dataset:
 
-![Viz1](./assets/Viz1.jpg) | ![Viz2](./assets/Viz2.jpg) | ![Viz2](./assets/Viz3.jpg) |
 
 
 
