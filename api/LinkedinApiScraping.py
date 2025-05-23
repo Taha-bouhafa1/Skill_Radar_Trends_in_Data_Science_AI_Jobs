@@ -12,8 +12,8 @@ load_dotenv()
 # -------------------- CONFIGURATION --------------------
 APIFY_API_TOKEN = os.getenv("APIFY_TOKEN")
 MONGO_URI = "mongodb://localhost:27017"
-DB_NAME = "job_scraper_db"
-COLLECTION_NAME = "linkedin_cleaned_jobs"
+DB_NAME = "job_database"
+COLLECTION_NAME = "job_offers"
 
 # -------------------- INITIALIZATION --------------------
 print("🚀 Loading model...")
