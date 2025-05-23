@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
+tensorflow
+joblib
+transformers
+tqdm
+apify-client
+pymongo
+schedule
