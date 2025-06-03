@@ -1,9 +1,0 @@
-.env
-
-# 📂 Data Folders
-# Ignore all contents of DataCleaning&Preprocessing
-DataCleaning&Preprocessing/*
-
-# But don't ignore these two files
-!DataCleaning&Preprocessing/SkillEtraction.py
-!DataCleaning&Preprocessing/data_preparation.ipynb
