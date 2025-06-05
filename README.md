@@ -63,8 +63,10 @@
 │ ├── data_preparation.ipynb
 │ ├── scrapped_jobs_api.csv
 │ └── SkillExtraction.py
-
-
+│
+└── Report&Presentation/
+    ├── Report.pdf
+    ├── Presentation.pdf
 ```
 
 ## 🧠 Project Overview
@@ -125,8 +127,8 @@ Project realized as part of the **"Analyse Web"** module under the supervision o
 
 Created by:
 
-- **Bouskine Othmane**
-- **Yassine Boulaalam**
 - **Taha Bouhafa**
+- **Yassine Boulaalam**
+- **Bouskine Othmane** 
 
 ---
